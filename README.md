@@ -1,8 +1,8 @@
 ## Hello there!!! I'm Roland 👋
 
-- 👨🏽‍💻 I'm currently working as an IT Intern.
+- 👨🏽‍💻 I'm currently working as an junior software technician.
 - 👨🏽‍🎓 I’m currently graduating in ADS at UNITAU.
-- 📚 I’m currently learning Java, C, SQL and Front end languages(HTML, CSS, JS).
+- 📚 I’m currently learning Java, JavaScript, SQL and React.
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LandsBitt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
